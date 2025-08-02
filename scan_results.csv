@@ -1,0 +1,27 @@
+timestamp,image_name,prediction,confidence,image_path
+2025-07-22 21:52:04,testegg1.jpg,fertile,72.86%,C:\Users\tamilselvan\Downloads\testegg1.jpg
+2025-07-22 21:53:33,testegg2.jpg,fertile,76.57%,C:\Users\tamilselvan\Downloads\testegg2.jpg
+2025-07-22 21:55:43,testegg3.jpg,fertile,59.48%,C:\Users\tamilselvan\Downloads\testegg3.jpg
+2025-07-22 21:58:30,testegg4.jpg,unfertile,90.73%,C:\Users\tamilselvan\Downloads\testegg4.jpg
+2025-07-22 22:02:31,testegg5.jpg,unfertile,96.57%,C:\Users\tamilselvan\Downloads\testegg5.jpg
+2025-07-22 22:03:29,testegg6.jpg,fertile,76.57%,C:\Users\tamilselvan\Downloads\testegg6.jpg
+2025-07-22 22:04:01,testegg7.jpg,unfertile,99.23%,C:\Users\tamilselvan\Downloads\testegg7.jpg
+2025-07-22 22:07:21,testegg8.jpg,unfertile,90.79%,C:\Users\tamilselvan\Downloads\testegg8.jpg
+2025-07-22 22:10:47,testegg9.jpg,unfertile,98.07%,C:\Users\tamilselvan\Downloads\testegg9.jpg
+2025-07-22 22:11:30,fertile(99).jpg,unfertile,98.07%,E:\Newplan\AIeggfertile\dataset\fertile\fertile(99).jpg
+2025-07-22 22:13:28,testegg10.jpg,unfertile,98.54%,C:\Users\tamilselvan\Downloads\testegg10.jpg
+2025-07-22 22:22:51,fertile(107).jpg,unfertile,99.94%,E:\Newplan\AIeggfertile\dataset\fertile\fertile(107).jpg
+2025-07-22 22:23:46,fertile(110).jpeg,unfertile,52.28%,E:\Newplan\AIeggfertile\dataset\fertile\fertile(110).jpeg
+2025-07-22 22:24:38,fertile(109).jpg,unfertile,99.92%,E:\Newplan\AIeggfertile\dataset\fertile\fertile(109).jpg
+2025-07-30 12:09:58,testegg14.jpg,unfertile,99.96%,C:\Users\tamilselvan\Downloads\testegg14.jpg
+2025-07-30 12:11:09,testegg10.jpg,unfertile,99.94%,C:\Users\tamilselvan\Downloads\testegg10.jpg
+2025-07-30 12:16:23,testegg14.jpg,unfertile,99.80%,C:\Users\tamilselvan\Downloads\testegg14.jpg
+2025-07-30 12:16:52,testegg1.jpg,unfertile,99.90%,C:\Users\tamilselvan\Downloads\testegg1.jpg
+2025-07-30 12:17:19,testegg10.jpg,unfertile,99.57%,C:\Users\tamilselvan\Downloads\testegg10.jpg
+2025-07-30 12:17:39,testegg9.jpg,unfertile,98.77%,C:\Users\tamilselvan\Downloads\testegg9.jpg
+2025-07-30 12:18:03,testegg3.jpg,unfertile,99.73%,C:\Users\tamilselvan\Downloads\testegg3.jpg
+2025-07-30 12:18:42,fertile (19).jpg,unfertile,83.66%,E:\Newplan\AIeggfertile\dataset\fertile\fertile (19).jpg
+2025-07-30 12:19:12,fertile (2).jpg,unfertile,98.82%,E:\Newplan\AIeggfertile\dataset\fertile\fertile (2).jpg
+2025-07-30 12:28:15,testegg11.jpg,fertile,92.14%,C:\Users\tamilselvan\Downloads\testegg11.jpg
+2025-07-30 12:51:12,testegg11.jpg,fertile,92.14%,C:\Users\tamilselvan\Downloads\testegg11.jpg
+2025-08-01 13:45:18,testegg15.jpg,unfertile,98.69%,C:\Users\tamilselvan\Downloads\testegg15.jpg
